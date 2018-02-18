@@ -1,6 +1,0 @@
-Reading bmp file: 6x6_24bit.bmp was successful
-Writing bmp file from read_bmp was successful
-New bmp file name: file_written_from_read_bmp.bmp
-Cropping image: 6x6_24bit.bmp was successful
-Writing bmp file from cropped image was successful
-New bmp file name: cropped_img.bmp

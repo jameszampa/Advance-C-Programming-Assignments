@@ -1,0 +1,4 @@
+Reading bmp file: airplane.bmp was successful
+Writing bmp file: file_written_from_read_bmp.bmp was successful
+Cropping image: 6x6_24bit.bmp was successful
+Writing bmp file: cropped_file.bmp was successful

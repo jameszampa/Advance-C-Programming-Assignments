@@ -1,0 +1,6 @@
+Cols: 13
+Rows: 13
+Opening: 7
+Paths: 73
+type:  
+chars_written: 169

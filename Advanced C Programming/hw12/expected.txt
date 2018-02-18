@@ -1,0 +1,54 @@
+Original Node
+NULL
+
+pq_enqueue (3)
+Head: 3->NULL
+return: 3->NULL
+
+Remove Last Node
+return: 3->NULL
+Head: NULL
+
+pq_enqueue (0)
+Head: 0->NULL
+return: 0->NULL
+
+pq_enqueue (10)
+Head: 0->10->NULL
+return: 10->NULL
+
+pq_enqueue (4)
+Head: 0->4->10->NULL
+return: 4->10->NULL
+
+Stack Push (7)
+return: 7->0->4->10->NULL
+
+pq_dequeue
+return: 7->NULL
+Head: 0->4->10->NULL
+
+Remove Last Node
+return: 10->NULL
+Head: 0->4->NULL
+
+Stack pop
+return: 0->NULL
+Head: 4->NULL
+
+Stack pop again
+return: 4->NULL
+Head: NULL
+
+Stack pop for empty list
+return: NULL
+Head: NULL
+
+Stack Push on empty list (9)
+return: 9->NULL
+Head: 9->NULL
+
+pq_dequeue
+return: 9->NULL
+Head: NULL
+
